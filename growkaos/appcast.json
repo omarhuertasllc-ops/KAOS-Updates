@@ -12,5 +12,5 @@
     "patch.sh now auto-pushes commits + tags to GitHub",
     "Adopt semantic versioning + git version control; appcast auto-bumps"
   ],
-  "downloadURL": "https://github.com/kaoshotbeatz-ops/KAOS-Updates/releases"
+  "downloadURL": "https://github.com/omarhuertasllc-ops/KAOS-Updates/releases"
 }
